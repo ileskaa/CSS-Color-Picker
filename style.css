@@ -1,0 +1,24 @@
+body {
+  margin: 5px;
+}
+
+svg {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto
+}
+
+.tooltip {
+  position: absolute;
+  padding: 6px;
+  background: snow;
+  border: 1px #886 solid;
+  border-radius: 5px;
+}
+
+/* path {z-index: 1;}
+
+path:hover {
+  filter: drop-shadow(0 0 0.75rem crimson);
+  z-index: 2;
+} */
